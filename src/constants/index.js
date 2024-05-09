@@ -21,7 +21,6 @@ import {
     utube,
     jobit,
     threejs,
-    jobsearch,
   } from "../assets";
   
   export const navLinks = [
@@ -45,7 +44,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Mobile App's",
+      title: "React Native Developer",
       icon: mobile,
     },
     {
@@ -53,10 +52,6 @@ import {
       icon: web,
     },
     
-    {
-      title: "MERN STACK",
-      icon: backend,
-    },
   ];
   
   const technologies = [
@@ -162,7 +157,7 @@ import {
         },
         
       ],
-      image: jobsearch,
+      image: creator,
       source_code_link: "https://github.com/itsakhilp/native_job_search",
     },
     ,
