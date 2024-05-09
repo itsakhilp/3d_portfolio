@@ -1,6 +1,5 @@
 ## A 3D Developer Portfolio
 
-## Teck Stack
 A creative Developer Portfolio build using : 
 - React
 - Three.js
