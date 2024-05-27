@@ -7,4 +7,4 @@ A creative Developer Portfolio build using :
 - React Three Drei
 - Email JS
 - Vite
-- Tailwind CSS
+- Tailwind CSS.
